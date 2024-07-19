@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eShopOnWeb-NAME
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 2c6fd163-2648-46e3-85f8-ca436f100fe9
   WEBAPP-NAME: lessontestsjakob
 
 
